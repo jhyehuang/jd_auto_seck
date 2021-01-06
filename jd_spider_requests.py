@@ -364,6 +364,8 @@ class JdSeckill(object):
                     self.submit_seckill_order()
             except Exception as e:
                 logger.info('抢购发生异常，稍后继续执行！', e)
+            # if exit_some_time():
+            #     break
             wait_some_time()
 
     def make_reserve(self):

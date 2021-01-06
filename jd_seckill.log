@@ -1,0 +1,554 @@
+2021-01-06 13:45:34,229 - 9623-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:314] - INFO: seckill_by_proc_pool 需登陆后调用，开始扫码登陆
+2021-01-06 13:45:34,348 - 9623-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:178] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-01-06 13:45:34,620 - 9623-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:209] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-06 13:45:36,664 - 9623-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:209] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-06 13:45:38,714 - 9623-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:209] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-06 13:45:40,759 - 9623-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:209] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-06 13:45:42,816 - 9623-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:209] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-06 13:45:44,868 - 9623-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:209] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-06 13:45:46,920 - 9623-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:209] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-06 13:45:48,975 - 9623-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:209] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-06 13:45:51,032 - 9623-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:209] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-06 13:45:53,050 - 9623-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:209] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-06 13:45:55,066 - 9623-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:209] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-06 13:45:57,083 - 9623-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:209] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-06 13:45:59,101 - 9623-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:209] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-01-06 13:46:01,125 - 9623-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:212] - INFO: 已完成手机客户端确认
+2021-01-06 13:46:01,371 - 9623-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:268] - INFO: 二维码登录成功
+2021-01-06 13:46:01,494 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:469] - INFO: 用户:小笼包有木有
+2021-01-06 13:46:01,494 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:469] - INFO: 用户:小笼包有木有
+2021-01-06 13:46:01,632 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:470] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 13:46:01,632 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-41】毫秒
+2021-01-06 13:46:01,633 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:50] - INFO: 时间到达，开始执行……
+2021-01-06 13:46:01,679 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:470] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 13:46:01,680 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-41】毫秒
+2021-01-06 13:46:01,680 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:01,681 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:50] - INFO: 时间到达，开始执行……
+2021-01-06 13:46:01,724 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:01,746 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:469] - INFO: 用户:小笼包有木有
+2021-01-06 13:46:01,841 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:01,854 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:470] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 13:46:01,854 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-41】毫秒
+2021-01-06 13:46:01,855 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:50] - INFO: 时间到达，开始执行……
+2021-01-06 13:46:01,874 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:469] - INFO: 用户:小笼包有木有
+2021-01-06 13:46:01,901 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:01,937 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:469] - INFO: 用户:小笼包有木有
+2021-01-06 13:46:01,982 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:01,985 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:470] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 13:46:01,985 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-41】毫秒
+2021-01-06 13:46:01,986 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:50] - INFO: 时间到达，开始执行……
+2021-01-06 13:46:02,028 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,037 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:470] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 13:46:02,038 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-41】毫秒
+2021-01-06 13:46:02,038 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:50] - INFO: 时间到达，开始执行……
+2021-01-06 13:46:02,044 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,084 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,228 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,231 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,245 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,265 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,328 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,439 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,444 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,453 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,483 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,642 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,645 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,660 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,688 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,720 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,798 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,844 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,884 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,945 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,956 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:02,979 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:03,093 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:03,124 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:03,164 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:03,164 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:03,251 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:03,272 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:03,380 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:03,397 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:03,401 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:03,433 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:03,543 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:03,668 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:03,670 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:03,707 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:03,718 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:03,792 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:03,838 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:03,915 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:03,944 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:04,003 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:04,099 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:04,120 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:04,142 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:04,195 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:04,353 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:04,391 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:04,429 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:04,461 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:04,472 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:04,585 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:04,659 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:04,667 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:04,672 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:04,687 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:04,854 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:04,910 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:04,952 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:05,014 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:05,023 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:05,087 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:05,119 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:05,153 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:05,273 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:05,294 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:05,305 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:05,305 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:05,451 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:05,467 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:05,478 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:05,524 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:05,592 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:05,767 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:05,782 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:05,801 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:05,822 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:05,898 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:05,979 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:06,050 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:06,053 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:06,084 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:06,171 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:06,213 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:06,213 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:06,267 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:06,267 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:06,477 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:06,510 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:06,510 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:06,541 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:06,578 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:06,750 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:06,796 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:06,825 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:06,834 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:06,840 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:06,991 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:06,993 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:06,997 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:07,010 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:07,069 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:07,195 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:07,202 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:07,271 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:07,283 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:07,314 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:07,447 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:07,510 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:07,534 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:07,535 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:07,544 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:07,680 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:07,754 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:07,765 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:07,848 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:07,849 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:07,867 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:08,034 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:08,054 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:08,073 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:08,108 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:08,136 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:08,250 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:08,332 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:08,398 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:08,415 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:08,472 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:08,521 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:08,578 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:08,638 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:08,650 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:08,735 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:08,802 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:08,802 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:08,810 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:08,847 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:08,979 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:09,002 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:09,003 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:09,003 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:09,187 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:09,196 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:09,196 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:09,263 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:09,264 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:09,358 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:09,423 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:09,494 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:09,515 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:09,586 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:09,644 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:09,665 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:09,726 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:09,843 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:09,861 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:09,862 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:09,930 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:10,050 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:10,095 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:10,115 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:10,127 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:10,138 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:10,237 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:10,276 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:10,308 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:10,369 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:10,507 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:10,575 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:10,595 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:10,595 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:10,643 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:10,675 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:10,739 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:10,871 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:10,890 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:10,893 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:10,983 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:10,984 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:11,082 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:11,165 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:11,188 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:11,384 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:11,406 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:11,436 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:11,491 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:11,584 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:11,627 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:11,641 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:11,644 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:11,692 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:11,815 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:11,833 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:11,910 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:11,915 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:11,923 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:12,042 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:12,102 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:12,171 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:12,177 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:12,208 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:12,250 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:12,309 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:12,419 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:12,472 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:12,498 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:12,545 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:12,562 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:12,664 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:12,669 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:12,699 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:12,762 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:12,870 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:12,883 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:12,945 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:12,945 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:12,976 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:13,025 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:13,131 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:13,144 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:13,216 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:13,276 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:13,276 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:13,393 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:13,398 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:13,524 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:13,544 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:13,567 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:13,592 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:13,700 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:13,740 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:13,819 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:13,862 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:13,874 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:13,892 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,042 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,103 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,105 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,108 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,114 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,270 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,283 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,302 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,428 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,438 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,442 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,479 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,500 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,629 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,664 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,686 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,711 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,741 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,838 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,888 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,897 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:14,962 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:15,056 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:15,066 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:15,073 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:15,124 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:15,231 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:15,295 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:15,296 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:15,394 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:15,408 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:15,436 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:15,479 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:15,561 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:15,579 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:15,624 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:15,710 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:15,774 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:15,788 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:15,858 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:15,925 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:15,998 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:16,026 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:16,047 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:16,121 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:16,133 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:16,180 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:16,246 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:16,265 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:16,475 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:16,479 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:16,533 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:16,684 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:16,814 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:16,816 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:16,975 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:16,984 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:17,070 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:17,233 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:17,251 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:17,325 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:17,405 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:17,415 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:17,437 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:17,445 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:17,505 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:17,635 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:17,666 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:17,722 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:17,738 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:17,756 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:17,910 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:17,928 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:17,954 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:17,976 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:18,095 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:18,182 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:18,211 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:18,252 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:18,274 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:18,391 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:18,437 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:18,468 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:18,484 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:18,581 - 9632-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:18,629 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:18,670 - 9629-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:18,681 - 9630-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:18,727 - 9631-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:46:18,784 - 9628-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:47:52,443 - 9693-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:469] - INFO: 用户:小笼包有木有
+2021-01-06 13:47:52,448 - 9694-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:469] - INFO: 用户:小笼包有木有
+2021-01-06 13:47:52,560 - 9694-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:470] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 13:47:52,561 - 9694-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-52】毫秒
+2021-01-06 13:47:52,561 - 9694-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:50] - INFO: 时间到达，开始执行……
+2021-01-06 13:47:52,584 - 9693-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:470] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 13:47:52,585 - 9693-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-52】毫秒
+2021-01-06 13:47:52,586 - 9693-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:50] - INFO: 时间到达，开始执行……
+2021-01-06 13:47:52,614 - 9694-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:47:52,629 - 9693-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:48:56,276 - 9726-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:469] - INFO: 用户:小笼包有木有
+2021-01-06 13:48:56,285 - 9730-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:469] - INFO: 用户:小笼包有木有
+2021-01-06 13:48:56,385 - 9726-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:470] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 13:48:56,386 - 9726-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-38】毫秒
+2021-01-06 13:48:56,386 - 9726-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:50] - INFO: 时间到达，开始执行……
+2021-01-06 13:48:56,387 - 9730-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:470] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 13:48:56,388 - 9730-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-38】毫秒
+2021-01-06 13:48:56,389 - 9730-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:50] - INFO: 时间到达，开始执行……
+2021-01-06 13:48:56,466 - 9726-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:48:56,470 - 9730-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:49:27,347 - 9756-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:469] - INFO: 用户:小笼包有木有
+2021-01-06 13:49:27,347 - 9755-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:469] - INFO: 用户:小笼包有木有
+2021-01-06 13:49:27,347 - 9754-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:469] - INFO: 用户:小笼包有木有
+2021-01-06 13:49:27,458 - 9755-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:470] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 13:49:27,458 - 9755-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-44】毫秒
+2021-01-06 13:49:27,459 - 9755-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:50] - INFO: 时间到达，开始执行……
+2021-01-06 13:49:27,470 - 9754-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:470] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 13:49:27,471 - 9754-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-44】毫秒
+2021-01-06 13:49:27,472 - 9756-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:470] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 13:49:27,472 - 9754-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:50] - INFO: 时间到达，开始执行……
+2021-01-06 13:49:27,472 - 9756-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-44】毫秒
+2021-01-06 13:49:27,473 - 9756-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:50] - INFO: 时间到达，开始执行……
+2021-01-06 13:49:27,515 - 9755-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:49:27,518 - 9754-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:49:27,519 - 9756-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:50:29,508 - 9789-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:469] - INFO: 用户:小笼包有木有
+2021-01-06 13:50:29,508 - 9786-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:469] - INFO: 用户:小笼包有木有
+2021-01-06 13:50:29,508 - 9788-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:469] - INFO: 用户:小笼包有木有
+2021-01-06 13:50:29,648 - 9788-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:470] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 13:50:29,649 - 9788-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-39】毫秒
+2021-01-06 13:50:29,649 - 9789-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:470] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 13:50:29,649 - 9788-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:50] - INFO: 时间到达，开始执行……
+2021-01-06 13:50:29,650 - 9789-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-39】毫秒
+2021-01-06 13:50:29,651 - 9789-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:50] - INFO: 时间到达，开始执行……
+2021-01-06 13:50:29,684 - 9786-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:470] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 13:50:29,684 - 9786-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-39】毫秒
+2021-01-06 13:50:29,685 - 9786-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:50] - INFO: 时间到达，开始执行……
+2021-01-06 13:50:29,701 - 9789-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:50:29,703 - 9788-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:50:29,728 - 9786-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:05,819 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:469] - INFO: 用户:小笼包有木有
+2021-01-06 13:53:05,821 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:469] - INFO: 用户:小笼包有木有
+2021-01-06 13:53:05,825 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:469] - INFO: 用户:小笼包有木有
+2021-01-06 13:53:05,927 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:470] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 13:53:05,928 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-41】毫秒
+2021-01-06 13:53:05,928 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:50] - INFO: 时间到达，开始执行……
+2021-01-06 13:53:05,944 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:470] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 13:53:05,945 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-41】毫秒
+2021-01-06 13:53:05,946 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:50] - INFO: 时间到达，开始执行……
+2021-01-06 13:53:05,973 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:470] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 13:53:05,974 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-41】毫秒
+2021-01-06 13:53:05,974 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:50] - INFO: 时间到达，开始执行……
+2021-01-06 13:53:05,975 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:05,988 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:06,025 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:06,124 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:06,183 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:06,208 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:06,249 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:469] - INFO: 用户:小笼包有木有
+2021-01-06 13:53:06,298 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:06,352 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:470] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 13:53:06,353 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-41】毫秒
+2021-01-06 13:53:06,354 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:50] - INFO: 时间到达，开始执行……
+2021-01-06 13:53:06,395 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:06,403 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:06,428 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:06,544 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:06,560 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:469] - INFO: 用户:小笼包有木有
+2021-01-06 13:53:06,603 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:06,603 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:06,604 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:06,661 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:470] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2021-01-06 13:53:06,662 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:45] - INFO: 正在等待到达设定时间:2020-12-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-41】毫秒
+2021-01-06 13:53:06,662 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/timer.py[line:50] - INFO: 时间到达，开始执行……
+2021-01-06 13:53:06,702 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:06,811 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:06,840 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:06,870 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:06,879 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:06,922 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:07,003 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:07,025 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:07,044 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:07,164 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:07,197 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:07,207 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:07,213 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:07,347 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:07,355 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:07,362 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:07,491 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:07,521 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:07,548 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:07,644 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:07,706 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:07,716 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:07,751 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:07,834 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:07,850 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:07,865 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:07,930 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:08,032 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:08,042 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:08,093 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:08,163 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:08,199 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:08,204 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:08,220 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:08,380 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:08,400 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:08,403 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:08,421 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:08,430 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:08,597 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:08,628 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:08,676 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:08,685 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:08,735 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:08,818 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:08,821 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:08,962 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:08,997 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:09,000 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:09,008 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:09,049 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:09,190 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:09,207 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:09,276 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:09,279 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:09,354 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:09,438 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:09,514 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:09,516 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:09,531 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:09,705 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:09,734 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:09,734 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:09,761 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:09,790 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:09,896 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:09,938 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:09,970 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:09,994 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:10,040 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:10,110 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:10,124 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:10,266 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:10,309 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:10,311 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:10,329 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:10,446 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:10,456 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:10,481 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:10,582 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:10,628 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:10,653 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:10,784 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:10,812 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:10,832 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:10,924 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:11,018 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:11,058 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:11,061 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:11,067 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:11,177 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:11,269 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:11,283 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:11,332 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:11,380 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:11,407 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:11,432 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:11,501 - 9869-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:11,609 - 9871-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:11,646 - 9868-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:11,660 - 9867-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试
+2021-01-06 13:53:11,730 - 9870-MainThread - /Users/huangzhijie/Documents/jhye_tools/jd_auto_seck/jd_spider_requests.py[line:464] - INFO: 抢购链接获取失败，稍后自动重试

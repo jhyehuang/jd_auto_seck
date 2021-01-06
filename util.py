@@ -4,6 +4,7 @@ import requests
 import os
 import time
 import smtplib
+from datetime import datetime
 
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
@@ -82,6 +83,15 @@ def get_random_useragent():
 
 def wait_some_time():
     time.sleep(random.randint(100, 300) / 1000)
+    if exit_some_time():
+        raise NameError
+
+def exit_some_time():
+    current_time = datetime.now().strftime('%H:%M:%S' )
+    seckill_time_obj = "10:01:00"
+    if seckill_time_obj < current_time:
+        return True
+    return False
 
 
 def send_wechat(message):
